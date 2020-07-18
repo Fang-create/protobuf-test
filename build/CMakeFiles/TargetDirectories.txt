@@ -1,0 +1,4 @@
+/home/ubuntu/work/lesson_study/level4/class3/protocol/2-protobuf/person/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/work/lesson_study/level4/class3/protocol/2-protobuf/person/build/CMakeFiles/pb_speed.dir
+/home/ubuntu/work/lesson_study/level4/class3/protocol/2-protobuf/person/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/work/lesson_study/level4/class3/protocol/2-protobuf/person/build/CMakeFiles/code_test.dir
